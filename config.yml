@@ -1,0 +1,12 @@
+# @format
+bot:
+  ID: '990134647335813160'
+  TOKEN: ''
+  PREFIX: '-'
+  EMBED_COLOR: '#2f3136'
+  OWNERS: ['908648080876920862','692617937512562729', '1090957904410071120']
+  MONGO: ''
+links:
+  INVITE: 'https://discord.com/oauth2/authorize?client_id=1032300215664914523&permissions=8&scope=applications.commands%20bot'
+  SUPPORT: 'https://discord.gg/flare'
+  VOTE: 'https://top.gg/bot/1032300215664914523/vote'
